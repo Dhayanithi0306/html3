@@ -8,7 +8,8 @@ body{
     width:100%;
     width:100vh;
     display:flex;
-    justify-content:center;
+    margin-left: 575px;
+    margin-top: 85px;
     align-items:center;
     background:rgb(37, 33, 33);
 }
